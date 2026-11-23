@@ -1,0 +1,17 @@
+
+# Compiled files
+*.exe
+*.o
+*.out
+
+# Generated database and backups
+vehicles.dat
+vehicles.tmp
+vehicles.bak
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
